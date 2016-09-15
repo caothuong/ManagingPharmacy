@@ -1,0 +1,12 @@
+c:\users\caothuong\documents\visual studio 2013\Projects\HEALTHHANDBOOK\HEALTHHANDBOOK\bin\Debug\HEALTHHANDBOOK.exe.config
+c:\users\caothuong\documents\visual studio 2013\Projects\HEALTHHANDBOOK\HEALTHHANDBOOK\bin\Debug\HEALTHHANDBOOK.exe
+c:\users\caothuong\documents\visual studio 2013\Projects\HEALTHHANDBOOK\HEALTHHANDBOOK\bin\Debug\HEALTHHANDBOOK.pdb
+c:\users\caothuong\documents\visual studio 2013\Projects\HEALTHHANDBOOK\HEALTHHANDBOOK\obj\Debug\HEALTHHANDBOOK.csprojResolveAssemblyReference.cache
+c:\users\caothuong\documents\visual studio 2013\Projects\HEALTHHANDBOOK\HEALTHHANDBOOK\obj\Debug\HEALTHHANDBOOK.Properties.Resources.resources
+c:\users\caothuong\documents\visual studio 2013\Projects\HEALTHHANDBOOK\HEALTHHANDBOOK\obj\Debug\HEALTHHANDBOOK.csproj.GenerateResource.Cache
+c:\users\caothuong\documents\visual studio 2013\Projects\HEALTHHANDBOOK\HEALTHHANDBOOK\obj\Debug\HEALTHHANDBOOK.exe
+c:\users\caothuong\documents\visual studio 2013\Projects\HEALTHHANDBOOK\HEALTHHANDBOOK\obj\Debug\HEALTHHANDBOOK.pdb
+C:\Users\CaoThuong\documents\visual studio 2013\Projects\HEALTHHANDBOOK\HEALTHHANDBOOK\obj\Debug\HEALTHHANDBOOK.GUI.ConnectDatabase.resources
+C:\Users\CaoThuong\documents\visual studio 2013\Projects\HEALTHHANDBOOK\HEALTHHANDBOOK\obj\Debug\HEALTHHANDBOOK.GUI.ConnectServer.resources
+C:\Users\CaoThuong\documents\visual studio 2013\Projects\HEALTHHANDBOOK\HEALTHHANDBOOK\obj\Debug\HEALTHHANDBOOK.exe.licenses
+C:\Users\CaoThuong\documents\visual studio 2013\Projects\HEALTHHANDBOOK\HEALTHHANDBOOK\obj\Debug\HEALTHHANDBOOK.GUI.Main.resources
