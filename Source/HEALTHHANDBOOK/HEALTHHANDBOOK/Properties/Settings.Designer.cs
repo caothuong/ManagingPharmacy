@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace HEALTHHANDBOOK.Properties {
+namespace QUANLYNHATHUOC.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]

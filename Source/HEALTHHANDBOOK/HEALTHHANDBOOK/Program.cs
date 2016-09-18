@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using HEALTHHANDBOOK.Database;
+using QUANLYNHATHUOC.Database;
 using HEALTHHANDBOOK.GUI;
 
 namespace HEALTHHANDBOOK

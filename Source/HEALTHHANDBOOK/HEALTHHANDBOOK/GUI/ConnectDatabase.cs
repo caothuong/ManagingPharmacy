@@ -8,7 +8,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using DevExpress.XtraEditors;
-using HEALTHHANDBOOK.Database;
+using QUANLYNHATHUOC.Database;
 
 namespace HEALTHHANDBOOK.GUI
 {

@@ -7,7 +7,7 @@ using Microsoft.Win32;
 using System.Data;
 using System.Data.SqlClient;
 using System.IO;
-namespace HEALTHHANDBOOK.Database
+namespace QUANLYNHATHUOC.Database
 {
         public class DatabaseConnection
         {

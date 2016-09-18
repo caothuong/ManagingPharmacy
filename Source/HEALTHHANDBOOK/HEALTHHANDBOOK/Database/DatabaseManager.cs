@@ -1,5 +1,5 @@
 ﻿using Microsoft.Win32;
-using HEALTHHANDBOOK.Database;
+using QUANLYNHATHUOC.Database;
 using System;
 using System.Data.OleDb;
 using System.Data;
@@ -11,7 +11,7 @@ using System.Data.SqlClient;
 using System.IO;
 using System.Threading.Tasks;
 
-namespace HEALTHHANDBOOK.Database
+namespace QUANLYNHATHUOC.Database
 {
     public static class  DatabaseManager
     {

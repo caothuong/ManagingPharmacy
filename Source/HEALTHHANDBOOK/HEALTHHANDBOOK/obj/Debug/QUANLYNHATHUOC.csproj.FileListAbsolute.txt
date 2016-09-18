@@ -1,0 +1,15 @@
+C:\Users\CaoThuong\documents\visual studio 2013\Projects\HEALTHHANDBOOK\HEALTHHANDBOOK\obj\Debug\QUANLYNHATHUOC.csprojResolveAssemblyReference.cache
+C:\Users\CaoThuong\documents\visual studio 2013\Projects\HEALTHHANDBOOK\HEALTHHANDBOOK\obj\Debug\HEALTHHANDBOOK.GUI.ConnectDatabase.resources
+C:\Users\CaoThuong\documents\visual studio 2013\Projects\HEALTHHANDBOOK\HEALTHHANDBOOK\obj\Debug\HEALTHHANDBOOK.GUI.ConnectServer.resources
+C:\Users\CaoThuong\documents\visual studio 2013\Projects\HEALTHHANDBOOK\HEALTHHANDBOOK\obj\Debug\HEALTHHANDBOOK.GUI.Main.resources
+C:\Users\CaoThuong\documents\visual studio 2013\Projects\HEALTHHANDBOOK\HEALTHHANDBOOK\obj\Debug\QUANLYNHATHUOC.csproj.GenerateResource.Cache
+C:\Users\CaoThuong\documents\visual studio 2013\Projects\HEALTHHANDBOOK\HEALTHHANDBOOK\bin\Debug\QUANLYNHATHUOC.exe.config
+C:\Users\CaoThuong\documents\visual studio 2013\Projects\HEALTHHANDBOOK\HEALTHHANDBOOK\bin\Debug\QUANLYNHATHUOC.exe
+C:\Users\CaoThuong\documents\visual studio 2013\Projects\HEALTHHANDBOOK\HEALTHHANDBOOK\bin\Debug\QUANLYNHATHUOC.pdb
+C:\Users\CaoThuong\documents\visual studio 2013\Projects\HEALTHHANDBOOK\HEALTHHANDBOOK\obj\Debug\QUANLYNHATHUOC.Properties.Resources.resources
+C:\Users\CaoThuong\documents\visual studio 2013\Projects\HEALTHHANDBOOK\HEALTHHANDBOOK\obj\Debug\QUANLYNHATHUOC.exe.licenses
+C:\Users\CaoThuong\documents\visual studio 2013\Projects\HEALTHHANDBOOK\HEALTHHANDBOOK\obj\Debug\QUANLYNHATHUOC.exe
+C:\Users\CaoThuong\documents\visual studio 2013\Projects\HEALTHHANDBOOK\HEALTHHANDBOOK\obj\Debug\QUANLYNHATHUOC.pdb
+E:\OOAD\ManagingPharmacy\Source\HEALTHHANDBOOK\HEALTHHANDBOOK\bin\Debug\QUANLYNHATHUOC.exe.config
+E:\OOAD\ManagingPharmacy\Source\HEALTHHANDBOOK\HEALTHHANDBOOK\obj\Debug\QUANLYNHATHUOC.exe
+E:\OOAD\ManagingPharmacy\Source\HEALTHHANDBOOK\HEALTHHANDBOOK\obj\Debug\QUANLYNHATHUOC.pdb

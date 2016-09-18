@@ -9,7 +9,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace HEALTHHANDBOOK.Database
+namespace QUANLYNHATHUOC.Database
 {
 	using System.Data.Linq;
 	using System.Data.Linq.Mapping;
@@ -36,7 +36,7 @@ namespace HEALTHHANDBOOK.Database
     #endregion
 		
 		public QUANLYTIENTHUOCDataContext() : 
-				base(global::HEALTHHANDBOOK.Properties.Settings.Default.QUANLYNHATHUOCConnectionString, mappingSource)
+				base(global::QUANLYNHATHUOC.Properties.Settings.Default.QUANLYNHATHUOCConnectionString, mappingSource)
 		{
 			OnCreated();
 		}
