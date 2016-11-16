@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 10.625" name="QUANLYNHATHUOCDATA">
+  <DataContextMoniker Name="/QUANLYNHATHUOCDATADataContext" />
+  <nestedChildShapes>
+    <classShape Id="67a41239-1066-49fb-b596-ceedad7fe74b" absoluteBounds="0.75, 0.75, 2, 1.9631982421875">
+      <DataClassMoniker Name="/QUANLYNHATHUOCDATADataContext/CTHD" />
+      <nestedChildShapes>
+        <elementListCompartment Id="64365216-5b60-45d0-9979-7700aafd6d6c" absoluteBounds="0.765, 1.21, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="81a54bab-cc11-44c1-88f8-1fab8f3a62a1" absoluteBounds="3.75, 0.75, 2, 3.8862125651041666">
+      <DataClassMoniker Name="/QUANLYNHATHUOCDATADataContext/THUOC" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f3bd9eaf-6153-49a2-803a-d4be713ecfe6" absoluteBounds="3.765, 1.21, 1.9700000000000002, 3.3262125651041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4d796b69-a963-4c3c-b263-d36377ddd949" absoluteBounds="0.75, 5.75, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/QUANLYNHATHUOCDATADataContext/DONVITINH" />
+      <nestedChildShapes>
+        <elementListCompartment Id="dba21c38-1834-463e-b205-c79a3f8291ba" absoluteBounds="0.765, 6.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="225de59e-0056-4c21-bb86-ddeffc125adf" absoluteBounds="3.75, 5.75, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/QUANLYNHATHUOCDATADataContext/HOADON" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b383be1d-db72-4f04-b415-de13653e7be1" absoluteBounds="3.765, 6.21, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0f237f3b-47f5-4be9-9bfb-e9a52070dc91" absoluteBounds="6.75, 0.75, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/QUANLYNHATHUOCDATADataContext/LOAITHUOC" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e4f19ca3-5721-4658-9873-e204489f370e" absoluteBounds="6.765, 1.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="614f63e7-f258-49c5-aa39-b4c64f6c2672" absoluteBounds="6.75, 2.75, 2, 2.5401025390625005">
+      <DataClassMoniker Name="/QUANLYNHATHUOCDATADataContext/NGUOIDUNG" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b596a690-9a12-4321-ada1-bda88da6739c" absoluteBounds="6.765, 3.21, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a3a793c7-d335-4f11-bae7-c836d4ae1066" absoluteBounds="6.75, 6.75, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/QUANLYNHATHUOCDATADataContext/NHAPHANG" />
+      <nestedChildShapes>
+        <elementListCompartment Id="27511f9a-111c-42b8-8b23-c2b677da2404" absoluteBounds="6.765, 7.21, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7aecf99c-b143-45a0-9771-bb27fc9e9cdb" absoluteBounds="0.75, 8.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/QUANLYNHATHUOCDATADataContext/QUYDINH" />
+      <nestedChildShapes>
+        <elementListCompartment Id="153a088e-ca37-4691-9945-be210f6f4d3c" absoluteBounds="0.765, 9.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

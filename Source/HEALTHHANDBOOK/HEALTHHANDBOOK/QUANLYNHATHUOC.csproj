@@ -62,22 +62,30 @@
     <Reference Include="DevExpress.Data.v16.1, Version=16.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
     <Reference Include="DevExpress.Images.v16.1, Version=16.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
     <Reference Include="DevExpress.Printing.v16.1.Core, Version=16.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Sparkline.v16.1.Core, Version=16.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
     <Reference Include="DevExpress.Utils.v16.1, Version=16.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
     <Reference Include="DevExpress.Xpo.v16.1, Version=16.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
     <Reference Include="DevExpress.XtraBars.v16.1, Version=16.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
     <Reference Include="DevExpress.XtraEditors.v16.1, Version=16.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v16.1, Version=16.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
     <Reference Include="DevExpress.XtraLayout.v16.1, Version=16.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
     <Reference Include="DevExpress.XtraNavBar.v16.1, Version=16.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v16.1, Version=16.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
     <Reference Include="DocumentFormat.OpenXml, Version=2.5.5631.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Data.Linq" />
+    <Reference Include="System.DirectoryServices" />
     <Reference Include="System.Runtime.Serialization" />
     <Reference Include="System.ServiceModel" />
     <Reference Include="System.Web" />
     <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows" />
+    <Reference Include="System.Xaml" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -86,16 +94,17 @@
     <Reference Include="System.Drawing" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Database\CheckInput.cs" />
     <Compile Include="Database\DatabaseConnection.cs" />
     <Compile Include="Database\DatabaseManager.cs" />
     <Compile Include="Database\ManageUser.cs" />
-    <Compile Include="Database\QUANLYTIENTHUOC.designer.cs">
+    <Compile Include="Database\QUANLYNHATHUOCDATA.designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>QUANLYTIENTHUOC.dbml</DependentUpon>
+      <DependentUpon>QUANLYNHATHUOCDATA.dbml</DependentUpon>
     </Compile>
     <Compile Include="GUI\ConnectDatabase.cs">
       <SubType>Form</SubType>
@@ -109,6 +118,24 @@
     <Compile Include="GUI\ConnectServer.Designer.cs">
       <DependentUpon>ConnectServer.cs</DependentUpon>
     </Compile>
+    <Compile Include="GUI\FormDanhSachThuoc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\FormDanhSachThuoc.Designer.cs">
+      <DependentUpon>FormDanhSachThuoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\FormDonvi.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\FormDonvi.Designer.cs">
+      <DependentUpon>FormDonvi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\FormThemThongTinThuoc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\FormThemThongTinThuoc.Designer.cs">
+      <DependentUpon>FormThemThongTinThuoc.cs</DependentUpon>
+    </Compile>
     <Compile Include="GUI\Main.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -117,14 +144,23 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <None Include="Database\QUANLYTIENTHUOC.dbml.layout">
-      <DependentUpon>QUANLYTIENTHUOC.dbml</DependentUpon>
+    <None Include="Database\QUANLYNHATHUOCDATA.dbml.layout">
+      <DependentUpon>QUANLYNHATHUOCDATA.dbml</DependentUpon>
     </None>
     <EmbeddedResource Include="GUI\ConnectDatabase.resx">
       <DependentUpon>ConnectDatabase.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="GUI\ConnectServer.resx">
       <DependentUpon>ConnectServer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FormDanhSachThuoc.resx">
+      <DependentUpon>FormDanhSachThuoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FormDonvi.resx">
+      <DependentUpon>FormDonvi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FormThemThongTinThuoc.resx">
+      <DependentUpon>FormThemThongTinThuoc.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="GUI\Main.resx">
       <DependentUpon>Main.cs</DependentUpon>
@@ -140,9 +176,9 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
-    <None Include="Database\QUANLYTIENTHUOC.dbml">
+    <None Include="Database\QUANLYNHATHUOCDATA.dbml">
       <Generator>MSLinqToSQLGenerator</Generator>
-      <LastGenOutput>QUANLYTIENTHUOC.designer.cs</LastGenOutput>
+      <LastGenOutput>QUANLYNHATHUOCDATA.designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
     </None>
     <None Include="Properties\Settings.settings">
@@ -180,6 +216,13 @@
       <ProductName>.NET Framework 3.5 SP1</ProductName>
       <Install>false</Install>
     </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\NguoiDung\" />
+    <Folder Include="Resources\Thuoc\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

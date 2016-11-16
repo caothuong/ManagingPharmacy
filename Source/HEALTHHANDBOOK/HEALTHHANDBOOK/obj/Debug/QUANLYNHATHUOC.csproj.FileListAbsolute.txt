@@ -10,6 +10,14 @@ C:\Users\CaoThuong\documents\visual studio 2013\Projects\HEALTHHANDBOOK\HEALTHHA
 C:\Users\CaoThuong\documents\visual studio 2013\Projects\HEALTHHANDBOOK\HEALTHHANDBOOK\obj\Debug\QUANLYNHATHUOC.exe.licenses
 C:\Users\CaoThuong\documents\visual studio 2013\Projects\HEALTHHANDBOOK\HEALTHHANDBOOK\obj\Debug\QUANLYNHATHUOC.exe
 C:\Users\CaoThuong\documents\visual studio 2013\Projects\HEALTHHANDBOOK\HEALTHHANDBOOK\obj\Debug\QUANLYNHATHUOC.pdb
-E:\OOAD\ManagingPharmacy\Source\HEALTHHANDBOOK\HEALTHHANDBOOK\bin\Debug\QUANLYNHATHUOC.exe.config
-E:\OOAD\ManagingPharmacy\Source\HEALTHHANDBOOK\HEALTHHANDBOOK\obj\Debug\QUANLYNHATHUOC.exe
 E:\OOAD\ManagingPharmacy\Source\HEALTHHANDBOOK\HEALTHHANDBOOK\obj\Debug\QUANLYNHATHUOC.pdb
+E:\OOAD\ManagingPharmacy\Source\HEALTHHANDBOOK\HEALTHHANDBOOK\obj\Debug\HEALTHHANDBOOK.GUI.ConnectDatabase.resources
+E:\OOAD\ManagingPharmacy\Source\HEALTHHANDBOOK\HEALTHHANDBOOK\obj\Debug\HEALTHHANDBOOK.GUI.ConnectServer.resources
+E:\OOAD\ManagingPharmacy\Source\HEALTHHANDBOOK\HEALTHHANDBOOK\obj\Debug\QUANLYNHATHUOC.GUI.FormDanhSachThuoc.resources
+E:\OOAD\ManagingPharmacy\Source\HEALTHHANDBOOK\HEALTHHANDBOOK\obj\Debug\QUANLYNHATHUOC.GUI.FormDonvi.resources
+E:\OOAD\ManagingPharmacy\Source\HEALTHHANDBOOK\HEALTHHANDBOOK\obj\Debug\QUANLYNHATHUOC.GUI.FormThemThongTinThuoc.resources
+E:\OOAD\ManagingPharmacy\Source\HEALTHHANDBOOK\HEALTHHANDBOOK\obj\Debug\HEALTHHANDBOOK.GUI.Main.resources
+E:\OOAD\ManagingPharmacy\Source\HEALTHHANDBOOK\HEALTHHANDBOOK\obj\Debug\QUANLYNHATHUOC.Properties.Resources.resources
+E:\OOAD\ManagingPharmacy\Source\HEALTHHANDBOOK\HEALTHHANDBOOK\obj\Debug\QUANLYNHATHUOC.csproj.GenerateResource.Cache
+E:\OOAD\ManagingPharmacy\Source\HEALTHHANDBOOK\HEALTHHANDBOOK\obj\Debug\QUANLYNHATHUOC.exe.licenses
+E:\OOAD\ManagingPharmacy\Source\HEALTHHANDBOOK\HEALTHHANDBOOK\bin\Debug\QUANLYNHATHUOC.exe.config

@@ -33,5 +33,16 @@ namespace QUANLYNHATHUOC.Properties {
                 return ((string)(this["QUANLYNHATHUOCConnectionString"]));
             }
         }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=CAOTHUONG\\CAOTHUONG;Initial Catalog=QUANGLYNHATHUOC;Integrated Securi" +
+            "ty=True")]
+        public string QUANGLYNHATHUOCConnectionString {
+            get {
+                return ((string)(this["QUANGLYNHATHUOCConnectionString"]));
+            }
+        }
     }
 }

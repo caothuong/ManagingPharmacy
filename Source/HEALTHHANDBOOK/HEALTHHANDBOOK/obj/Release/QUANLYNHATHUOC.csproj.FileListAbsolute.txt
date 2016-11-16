@@ -1,0 +1,15 @@
+E:\OOAD\ManagingPharmacy\Source\HEALTHHANDBOOK\HEALTHHANDBOOK\obj\Release\QUANLYNHATHUOC.pdb
+E:\OOAD\ManagingPharmacy\Source\HEALTHHANDBOOK\HEALTHHANDBOOK\obj\Release\HEALTHHANDBOOK.GUI.ConnectDatabase.resources
+E:\OOAD\ManagingPharmacy\Source\HEALTHHANDBOOK\HEALTHHANDBOOK\obj\Release\HEALTHHANDBOOK.GUI.ConnectServer.resources
+E:\OOAD\ManagingPharmacy\Source\HEALTHHANDBOOK\HEALTHHANDBOOK\obj\Release\QUANLYNHATHUOC.GUI.FormDanhSachThuoc.resources
+E:\OOAD\ManagingPharmacy\Source\HEALTHHANDBOOK\HEALTHHANDBOOK\obj\Release\HEALTHHANDBOOK.GUI.Main.resources
+E:\OOAD\ManagingPharmacy\Source\HEALTHHANDBOOK\HEALTHHANDBOOK\obj\Release\QUANLYNHATHUOC.Properties.Resources.resources
+E:\OOAD\ManagingPharmacy\Source\HEALTHHANDBOOK\HEALTHHANDBOOK\obj\Release\QUANLYNHATHUOC.csproj.GenerateResource.Cache
+E:\OOAD\ManagingPharmacy\Source\HEALTHHANDBOOK\HEALTHHANDBOOK\obj\Release\QUANLYNHATHUOC.exe.licenses
+E:\OOAD\ManagingPharmacy\Source\HEALTHHANDBOOK\HEALTHHANDBOOK\bin\Release\QUANLYNHATHUOC.exe.config
+E:\OOAD\ManagingPharmacy\Source\HEALTHHANDBOOK\HEALTHHANDBOOK\bin\Release\QUANLYNHATHUOC.exe
+E:\OOAD\ManagingPharmacy\Source\HEALTHHANDBOOK\HEALTHHANDBOOK\bin\Release\QUANLYNHATHUOC.pdb
+E:\OOAD\ManagingPharmacy\Source\HEALTHHANDBOOK\HEALTHHANDBOOK\obj\Release\QUANLYNHATHUOC.csprojResolveAssemblyReference.cache
+E:\OOAD\ManagingPharmacy\Source\HEALTHHANDBOOK\HEALTHHANDBOOK\obj\Release\QUANLYNHATHUOC.GUI.FormDonvi.resources
+E:\OOAD\ManagingPharmacy\Source\HEALTHHANDBOOK\HEALTHHANDBOOK\obj\Release\QUANLYNHATHUOC.GUI.FormThemThongTinThuoc.resources
+E:\OOAD\ManagingPharmacy\Source\HEALTHHANDBOOK\HEALTHHANDBOOK\obj\Release\QUANLYNHATHUOC.exe

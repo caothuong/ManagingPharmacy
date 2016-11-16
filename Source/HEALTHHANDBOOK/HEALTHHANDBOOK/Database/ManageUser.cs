@@ -8,6 +8,7 @@ namespace QUANLYNHATHUOC.Database
 {
     class ManageUser
     {
-          //  public static NGUOIDUNG User = null;
+           public static NGUOIDUNG User = null;
+           public static THUOC Thuoc = null;
     }
 }
